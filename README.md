@@ -25,7 +25,7 @@ Este es un sistema MVC en PHP con MySQL (usando PDO) para gestionar la logístic
 Edita el archivo `config/database.php` y ajusta los valores:
 ```php
 $host = 'localhost';
-$dbname = 'logistica';
+$dbname = 'transportes';
 $user = 'root'; // Usuario por defecto en XAMPP
 $pass = ''; // Contraseña vacía en XAMPP
 ```
